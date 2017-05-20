@@ -3,7 +3,7 @@
 ## OBJECTIVE
 - Deploy your first Node.JS APP. Bind it to a RabbitMQ Service
 
-##LANGUAGE
+## LANGUAGE
 - NODE.JS
 
 ### STEP 1
